@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  background-color: #009B72;
+  font-family: monospace;
+}
+
+h1{
+  font-size: 60px;
+  background-color: #F1F1F1;
+  border: dashed silver 5px;
+  padding: 5px;
+}
+
+h2{
+  font-size: 50px;
+  text-align: left;
+  margin-left: 20px;
+}
+
+p{
+  font-size: 30px;
+}
+
+img{
+  width: 400px;
+  heigth: 400px;
+  border: solid brown 10px;
+  margin: 5px;
+}
